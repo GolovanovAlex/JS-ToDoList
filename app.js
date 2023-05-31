@@ -1,7 +1,8 @@
+// ---- ---- const ---- ---- //
 const app = document.querySelector('#app');
-const button = document.querySelector('#button');
+const buttonAdd = document.querySelector('#button');
 
-button.addEventListener('click', function () {
+buttonAdd.addEventListener('click', function () {
   const input = app.querySelector('.form input');
   const takeMessage = input.value;
   input.value = '';

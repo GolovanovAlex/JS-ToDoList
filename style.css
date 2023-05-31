@@ -20,20 +20,12 @@ body {
   border-radius: 10px;
 }
 .title {
-  font-size: 28px;
   text-align: center;
   margin-bottom: 25px;
 }
 .how {
-  font-size: 22px;
   font-weight: 600;
-  margin-bottom: 15px;
-}
-.counter {
-  font-size: 600px;
-  font-size: 22px;
-}
-.list {
+  margin-bottom: 5px;
 }
 .item {
   margin-bottom: 5px;
